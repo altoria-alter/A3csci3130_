@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="province_array">
+        <item>Select your province</item>
+        <item>AB</item>
+        <item>BC</item>
+        <item>MB</item>
+        <item>NB</item>
+        <item>NL</item>
+        <item>NS</item>
+        <item>NT</item>
+        <item>NU</item>
+        <item>ON</item>
+        <item>PE</item>
+        <item>SK</item>
+        <item>YT</item>
+        <item>Not on the list</item>
+    </string-array>
+
+</resources>
